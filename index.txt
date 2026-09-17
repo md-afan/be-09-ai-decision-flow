@@ -1,0 +1,6 @@
+password: 6e26e6f62e6wqvhdyfg7#@##$WW
+username: myanatomy
+
+mongodb+srv://myanatomy:6e26e6f62e6wqvhdyfg7#@##$WW@myanatomy.qahvofa.mongodb.net/
+
+CLOUDINARY_URL=cloudinary://139183819452787:ETz-7UfoP-r0ERF6H7HSBm0w_EI@drkft6zpm
